@@ -1,0 +1,25 @@
+{
+  "name": "app_livraria_api",
+  "version": "1.0.0",
+  "description": "Api do app app_livraria_flutter",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "mongodb",
+    "mongoose",
+    "express"
+  ],
+  "author": "Otavio Henrique de Lima e Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.3.2"
+  }
+}
